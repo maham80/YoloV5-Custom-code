@@ -1,0 +1,6 @@
+train: /kaggle/input/yolov5-dataset2/hhhhhh/train
+val: /kaggle/input/yolov5-dataset2/hhhhhh/valid
+test: /kaggle/input/yolov5-dataset2/hhhhhh/test
+
+nc: 14
+names: ['age', 'block', 'bp', 'date', 'diagnosis', 'gender', 'history', 'medicine_dose', 'medicine_name', 'medicine_power', 'medicine_type', 'name', 'temp', 'weight']
